@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Desktop\\Code Projects\\c#\\Conversion Backend\\Conversion Backend.csproj",
+      "projectUniqueName": "E:\\Desktop\\Code Projects\\C#\\Conversion-Backend\\Conversion Backend.csproj",
       "projectName": "Conversion Backend",
-      "projectPath": "E:\\Desktop\\Code Projects\\c#\\Conversion Backend\\Conversion Backend.csproj",
+      "projectPath": "E:\\Desktop\\Code Projects\\C#\\Conversion-Backend\\Conversion Backend.csproj",
       "packagesPath": "C:\\Users\\redwi\\.nuget\\packages\\",
-      "outputPath": "E:\\Desktop\\Code Projects\\c#\\Conversion Backend\\obj\\",
+      "outputPath": "E:\\Desktop\\Code Projects\\C#\\Conversion-Backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\redwi\\AppData\\Roaming\\NuGet\\NuGet.Config",
